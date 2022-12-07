@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+      ### :대문자_abcd: Languages ![Top
+      Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjin5450&layout=compact&theme=buefy)
+      ### :번쩍:️ GitHub Stats ![Anurag's github
+      stats](https://github-readme-stats.vercel.app/api?username=yunjin5450&show_icons=true&theme=buefy)
